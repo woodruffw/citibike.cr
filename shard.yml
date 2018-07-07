@@ -1,0 +1,9 @@
+name: citibike
+version: 0.1.0
+
+authors:
+  - William Woodruff <william@yossarian.net>
+
+crystal: 0.25.1
+
+license: MIT
