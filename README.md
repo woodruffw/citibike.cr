@@ -1,4 +1,6 @@
-# citibike.cr
+citibike.cr
+===========
+
 
 A simple wrapper over the NYC Citi Bike [GBFS](https://github.com/NABSA/gbfs/blob/master/gbfs.md)
 feed.
