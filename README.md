@@ -1,6 +1,7 @@
 citibike.cr
 ===========
 
+![license](https://raster.shields.io/badge/license-MIT%20with%20restrictions-green.png)
 
 A simple wrapper over the NYC Citi Bike [GBFS](https://github.com/NABSA/gbfs/blob/master/gbfs.md)
 feed.
